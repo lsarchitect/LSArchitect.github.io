@@ -1,4 +1,4 @@
-# Hi! I´m lucía
+# Hi! I´m Lucía
 
 ## Hello World
 
